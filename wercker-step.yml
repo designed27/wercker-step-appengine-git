@@ -1,5 +1,5 @@
 name: appengine-git-deploy
-version: 0.0.3
+version: 0.0.4
 description: This step allows you to deploy to Appengine via git push interface.
 keywords:
     - deploy
