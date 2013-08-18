@@ -14,7 +14,7 @@ You must set your keys in the wercker deploy variable page.
 
 ## Example
 
-    - appengine-git:
+    - appengine-git-deploy:
         netrc_login: $NETRC_LOGIN
         netrc_pass: $NETRC_PASS
         repo_url: $REPO_URL
