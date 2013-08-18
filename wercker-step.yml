@@ -1,0 +1,3 @@
+name: appengine-git
+version: 0.1
+description: appengine deply via git push to code.google.com
