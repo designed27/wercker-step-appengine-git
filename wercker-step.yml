@@ -1,3 +1,6 @@
-name: appengine-git
-version: 0.0.1
-description: appengine deply via git push to code.google.com
+name: appengine-git-deploy
+version: 0.0.2
+description: This step allows you to deploy to Appengine via git push interface.
+keywords:
+    - deploy
+    - appengine

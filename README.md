@@ -1,5 +1,7 @@
 # Appengine Deploy for Wercker
 
+[![wercker status](https://app.wercker.com/status/77786388a2867b4350c8a076e3441e24/m "wercker status")](https://app.wercker.com/project/bykey/77786388a2867b4350c8a076e3441e24)
+
 Deploys a package from wercker to Appengine via git push interface. See https://developers.google.com/appengine/docs/push-to-deploy for instructions to setup Appengine to enable push-to-deploy.
 
 You must set your keys in the wercker deploy variable page.
